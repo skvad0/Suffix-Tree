@@ -1,0 +1,3 @@
+C:/Users/vmartyr/Documents/Suffix_Tree/cmake-build-debug/CMakeFiles/Suffix_Tree.dir
+C:/Users/vmartyr/Documents/Suffix_Tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vmartyr/Documents/Suffix_Tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
